@@ -124,15 +124,3 @@ Hexacall aims to raise $20 million through its Initial Coin Offering (ICO). The 
 Hexacall represents a groundbreaking fusion of cryptocurrency and communication technology. By incentivizing everyday communication, we aim to drive mass adoption of blockchain technology and create a new standard for value creation in the digital age.
 
 Our vision extends beyond just a call-to-earn app; we see Hexacall as the foundation for a new decentralized communication ecosystem that empowers users, protects privacy, and distributes value fairly among participants.
-
-
-To get started with Hexacall, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/hexacall/hexacall.git
-   cd hexacall
-   npm install
-   npm run dev
-
-
