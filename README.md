@@ -3,8 +3,6 @@
 
 ![Hexacall Logo](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Untitled%20design%20(14)-3uJlyGEejEkUElfROs0PGijnDGNeYs.png)
 
-**Contact**: support@hexacall.com
-
 ## Executive Summary
 
 Hexacall is revolutionizing the intersection of communication and cryptocurrency by introducing the world's first call-to-earn platform. By leveraging blockchain technology and tokenized incentives, Hexacall aims to reward users for their daily communication activities, creating a new paradigm in the digital communication space.
