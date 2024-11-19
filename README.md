@@ -62,7 +62,7 @@ Hexacall is built on a hybrid architecture, combining the strengths of blockchai
 
 ### Key Components
 
-1. **Blockchain Layer**: Utilizes the Avalanche network for fast, low-cost transactions and smart contract functionality.
+1. **Blockchain Layer**: Utilizes the TON network for dynamic sharding, on-chain storage, and seamless Telegram integration.
 2. **Communication Protocol**: Implements WebRTC for peer-to-peer communication, ensuring high-quality, secure calls.
 3. **Reward Distribution System**: Smart contracts manage the automatic distribution of HEXA tokens based on call duration and quality.
 4. **User Wallet**: Integrated non-custodial wallet for seamless token management.
@@ -71,7 +71,7 @@ Hexacall is built on a hybrid architecture, combining the strengths of blockchai
 ## Roadmap
 
 ### Phase 1: Launch (Q1 2025)
-- Initial Coin Offering (ICO)
+- Initial DEX Offering (IDO)
 - Beta release of Hexacall mobile app
 - Integration with Avalanche network
 - Basic call-to-earn functionality
